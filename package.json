@@ -1,8 +1,8 @@
 {
-  "name": "@hapi/joi",
+  "name": "joi",
   "description": "Object schema validation",
   "version": "1.0.0",
-  "homepage": "https://github.com/hapijs/joi",
+  "homepage": "https://github.com/davidbnk/joi16",
   "repository": "https://github.com/davidbnk/joi16",
   "main": "lib/index.js",
   "keywords": [
