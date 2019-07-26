@@ -1,5 +1,5 @@
 {
-  "name": "joi",
+  "name": "joi16custom",
   "description": "Object schema validation",
   "version": "1.0.0",
   "homepage": "https://github.com/davidbnk/joi16",
@@ -16,12 +16,6 @@
     "@hapi/hoek": "^8.1.0",
     "@hapi/marker": "^1.0.0",
     "@hapi/topo": "^3.1.2"
-  },
-  "devDependencies": {
-    "@hapi/code": "6.x.x",
-    "@hapi/lab": "19.x.x",
-    "@hapi/joi-legacy-test": "npm:@hapi/joi@15.x.x",
-    "hapitoc": "1.x.x"
   },
   "scripts": {
     "test": "lab -t 100 -a @hapi/code -L",
